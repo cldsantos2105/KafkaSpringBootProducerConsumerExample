@@ -1,1 +1,1 @@
-# kafka-example
+# Kafka Spring Boot Producer Consumer Example
